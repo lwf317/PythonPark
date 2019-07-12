@@ -1,1 +1,5 @@
-This ia bar.txt
+The foo.txt is removed,
+now please use thr new bar.txt file.
+
+This a greeting from bar.txt
+
